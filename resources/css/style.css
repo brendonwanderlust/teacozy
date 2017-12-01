@@ -1,0 +1,65 @@
+/* Styled by Brendon Carrasquillo. Started 11/30/2017 at 7:45 pm */
+
+body {
+  background-color: black;
+  font-family: Helvetica;
+  font-size: 22px;
+  color: seashell;
+  opacity: 0.9;
+
+}
+
+/* Start Header */
+.header {
+  display: flex;
+  justify-content: space-between;
+  height: 69px;
+  border: 1px solid seashell;
+  position: fixed;
+  width: 100%;
+  top: 0px;
+  right: 0px;
+  left: 0px;
+}
+
+.logo {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-left: 10px;
+}
+
+.logo img {
+  height: 50px;
+}
+
+.nav {
+  display: flex;
+  align-items: center;
+}
+
+.nav span a {
+  text-decoration: underline;
+  margin: 0px 15px;
+  color: seashell;
+}
+
+
+
+/* Start "Mission" Container */
+
+
+
+/* Start "Tea of the Month" Container */
+
+
+
+/* Start "Locations" Container */
+
+
+
+/* Start "Contact" Container */
+
+
+
+/* START Footer */
